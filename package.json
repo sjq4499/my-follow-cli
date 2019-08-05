@@ -1,0 +1,18 @@
+{
+    "name": "my-follow-cli",
+    "version": "0.0.4",
+    "description": "first",
+    "bin": {
+        "my-follow-cli": "./bin/index.js"
+    },
+    "scripts": {
+        "start": "node ./bin/index.js"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "commander": "^2.20.0",
+        "inquirer": "^6.5.0"
+    }
+}
